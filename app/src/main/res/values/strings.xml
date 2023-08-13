@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="image">Image</string>
+    <string name="a_delhi">A: Delhi</string>
+    <string name="quiz_daily">Quiz Daily</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="enter_your_email_address_and_password">Enter your email address and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="your_score_20">Your Score: 20</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="log_out">Log Out</string>
+    <string name="button">Button</string>
+    <string name="isn_t_life_a_collection_of_weird_quizzes_with_n_no_answers_to_half_the_questions">Isn’t life a collection of weird quizzes with \n no answers to half the questions</string>
+    <string name="welcome_to_daily_quiz">Welcome To Daily Quiz</string>
+    <string name="get_started">Get Started</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using app</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? Signup</string>
+</resources>
